@@ -10,46 +10,6 @@
 >
 > *Boa sorte para todos vocês!*
 
-**Original**: [Inglês](https://github.com/jwasham/coding-interview-university/blob/main/README.md)
-
-- [Acompanhe o progresso da tradução aqui!](https://github.com/jwasham/coding-interview-university/pull/115)
-
-**Tradutores**: [Marlon Aviz](https://github.com/avizmarlon) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=avizmarlon)), [marceloogeda](https://github.com/marceloogeda) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=marceloogeda)), [laris151](https://github.com/laris151) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=laris151))
-
-Traduções:
-- [Bahasa Indonesia](translations/README-id.md)
-- [Bulgarian](translations/README-bg.md)
-- [Español](translations/README-es.md)
-- [German](translations/README-de.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Polish](translations/README-pl.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Russian](translations/README-ru.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Urdu - اردو](tanslations/README-ur.md)
-- [Uzbek](translations/README-uz.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [中文版本](translations/README-cn.md)
-- [繁體中文](translations/README-tw.md)
-
-Traduções em progresso:
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-
-
 ## O que é isso?
 
 Esse é o meu plano de estudo mensal para ir de desenvolvedor web (autodidata, sem formação em Ciência da Computação) à engenheiro de software em uma grande empresa.
@@ -182,56 +142,6 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
 - [Séries de Vídeos](#séries-de-vídeos)
 - [Cursos de Ciência da Computação](#cursos-de-ciência-da-computação)
 
----
-
-## Por que usar?
-
-Quando eu comecei esse projeto, eu não sabia diferenciar memória dinâmica de memória estática, não sabia notação Big-O, árvores, ou como percorrer um grafo. Se eu tivesse que escrever um algoritmo de ordenação, eu posso te dizer que ele não seria muito bom.
-Todas as estruturas de dados que eu já usei eram construídas dentro da linguagem, e eu não sabia como elas funcionavam por debaixo dos panos. Eu nunca tive que gerenciar memória a não ser que um processo que eu estava rodando desse um erro de "memória insuficiente", nesse caso eu teria que dar um jeito. Eu já usei alguns vetores multidimensionais na minha vida e milhares de vetores associativos, mas eu nunca criei estruturas de dados do zero.
-
-É um longo plano. Você vai levar meses. Se você já é familiarizado com muitas dessas coisas, você vai precisar de muito menos tempo. 
-
-## Como usar
-
-**Tudo abaixo é um esboço**, e você deve abordar os itens em ordem de cima para baixo.
-
-Eu estou usando a sintaxe de markdown especial do Github, incluindo listas de tarefas para verificar o progresso.
-
-**Crie um novo branch para você verificar itens assim, apenas coloque um x entre os colchetes: [x]**
-
-
-    Bifurque (fork) um branch e siga os comandos abaixo
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Marque todas as caixas com X depois que você completar suas alterações
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/main `
-
-`git push --force `
-
-[Mais sobre a sintaxe de markdown especial do Github](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Não ache que você não é inteligente o suficiente
-- Engenheiros de software bem sucedidos são inteligentes, mas muitos são inseguros quanto à própria inteligência.
-- [O mito do Programador Gênio](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [É perigoso ir sozinho: Batalhando os monstros invisíveis na indústria de Tecnologia](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## Sobre os recursos em vídeo
-
-Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera, EdX, ou Lynda.com. Esses são chamados de MOOCs (Curso Online Aberto e Massivo).
-Às vezes as aulas não estão em sessão, nesse caso você terá que esperar alguns meses, portanto não terá acesso até lá. Os cursos da Lynda.com não são gratuitos.
-
-    Eu agradeceria a ajuda de vocês em adicionar recursos públicos gratuitos que sempre estejam disponíveis, como vídeos do YouTube para acompanhar os vídeos de curso online.
-    Eu gosto de usar palestras de universidades;
 
 
 ## Processo de Entrevista e Preparação Geral para a Entrevista
@@ -251,28 +161,7 @@ Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera,
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago) 
         - Um curso de preparação para entrevistas focado em Python, que cobre estrutura de dados, algoritmos, entrevistas simuladas e muito mais.
 
-## Escolha Uma Linguagem para a Entrevista
-
-Você pode escolher uma linguagem com a qual você esteja confortável para fazer a parte de programação (parte prática) da entrevista, mas para grandes empresas, essas são ótimas opções:
-
-- C++
-- Java
-- Python
-
-Você também poderia usar essas, mas dê uma lida por aí antes. Podem haver ressalvas:
-
-- JavaScript
-- Ruby
-
-Você precisa estar confortável com a linguagem e ser bem informado.
-
-Leia mais sobre as escolhas:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
 [Veja recursos de linguagens aqui](programming-language-resources.md)
-
-Você vai ver aprendizado de C, C++ e Python incluído abaixo, porque é o que estou aprendendo. Tem alguns livros envolvidos, veja no final.
 
 ## Lista de Livros
 
