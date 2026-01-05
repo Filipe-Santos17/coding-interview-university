@@ -30,12 +30,7 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
 ## Índice
 
 - [O que é isso?](#o-que-é-isso)
-- [Por que usar?](#por-que-usar)
-- [Como usar?](#como-usar)
-- [Não ache que você não é inteligente o suficiente](#não-ache-que-você-não-é-inteligente-o-suficiente)
-- [Sobre os recursos em vídeo](#sobre-os-recursos-em-vídeo)
 - [Processo de Entrevista e Preparação Geral para a Entrevista](#processo-de-entrevista-e-preparação-geral-para-a-entrevista)
-- [Escolha Uma Linguagem para a Entrevista](#escolha-uma-linguagem-para-a-entrevista)
 - [Lista de Livros](#lista-de-livros)
 - [Antes de começar](#antes-de-começar)
 - [O que você não verá](#o-que-você-não-verá)
