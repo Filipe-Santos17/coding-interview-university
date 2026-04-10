@@ -37,6 +37,7 @@
   - [C++ Primer](https://books.google.co.in/books/about/C++_Primer.html?id=J1HMLyxqJfgC&redir_esc=y)
   - [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
   - [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions)
+
 - Python
   - [Python Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
   - [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
@@ -52,6 +53,7 @@
   - [Python Programming Tutorial](https://www.scaler.com/topics/python/)
   - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions)
   - [Python Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/)
+
 - Java
   - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
   - [Java Cheat Sheet](https://www.interviewbit.com/java-cheat-sheet)
@@ -61,6 +63,7 @@
   - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1744s)
   - [Top Java Interview Questions and Answers](https://www.interviewbit.com/java-interview-questions)
   - [Data Structures in Java](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+
 - Go
   - [The Go programming Language](https://golang.org/)
   - [The Go programming Language (book)](http://www.gopl.io/)
@@ -71,6 +74,7 @@
   - [Go Proverbs](http://go-proverbs.github.io/)
   - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
   - [Gophercises - Free course on Coding Exercises in Go](https://gophercises.com)
+
 - HTML
   - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
   - [Quick HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
@@ -79,12 +83,14 @@
   - [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
   - [W3 Schools](https://www.w3schools.com/html/)
   - [Html Interview Questions](https://www.interviewbit.com/html-interview-questions)
+
 - CSS
   - [Quick CSS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
   - [CSS Crash Course for absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
   - [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
   - [W3 Schools](https://www.w3schools.com/css/)
   - [Top 30+ CSS Interview Questions](https://www.interviewbit.com/css-interview-questions)
+
 - Javascript
   - [JavaScript Cheat Sheet](https://www.interviewbit.com/javascript-cheat-sheet)
   - [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
@@ -93,6 +99,7 @@
   - [Javascript Algorithms With Explanations](https://github.com/trekhleb/javascript-algorithms)
   - [Javascript Tutorial - Learn From Scratch](https://www.scaler.com/topics/javascript/)
   - [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions)
+
 - Rust
   - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
   - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
@@ -100,13 +107,3 @@
   - [Introduction - Easy Rust](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
   - [Rust overview](https://learning-rust.github.io/docs/index.html)
   - [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-
-- Ruby
-
-  - [The Ruby Programming Language](https://book4you.org/book/1219034/7c9a4b)
-  - [Polished Ruby Programming](https://book4you.org/book/16678106/f61159)
-  - [Ruby Fu](https://rubyfu.net/)
-  - [Ruby Koans](http://rubykoans.com/)
-
-- Other Language 2
-- etc

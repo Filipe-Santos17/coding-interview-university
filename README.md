@@ -1,15 +1,5 @@
 # Universidade de Entrevista de Programação
 
-> Originalmente eu criei isso como uma pequena lista to-do (a fazer) de tópicos de estudo para se tornar um engenheiro de software, 
-> mas isso cresceu para este imenso acervo que você consulta hoje. Após passar por todo esse plano de estudo, [Eu fui contratado 
-> como Engenheiro de Desenvolvimento de Software na Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
-> Você provavelmente não vai precisar estudar tanto quanto eu. De qualquer maneira, tudo que você precisa está aqui.
->
-> Os itens listados aqui irão preparar você muito bem para uma entrevista em praticamente qualquer empresa de software, 
-> incluindo as gigantes como: Amazon, Facebook, Google ou Microsoft.
->
-> *Boa sorte para todos vocês!*
-
 ## O que é isso?
 
 Esse é o meu plano de estudo mensal para ir de desenvolvedor web (autodidata, sem formação em Ciência da Computação) à engenheiro de software em uma grande empresa.
@@ -141,9 +131,9 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
 
 ## Processo de Entrevista e Preparação Geral para a Entrevista
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
 - [ ] Decifrando A Entrevista de Programação Série 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
@@ -160,87 +150,32 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
 
 ## Lista de Livros
 
-Essa é uma lista menor comparada à que eu usei. Está abreviada para economizar seu tempo.
-
 ### Preparação para a Entrevista
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html) (Entrevistas de Programação Expostas: Segredos para Conseguir Seu Próximo Emprego, 2ª Edição)
-    - respostas em C++ e Java
-    - esse é um bom aquecimento para o Cracking the Coding Interview (Decifrando a Entrevista de Programação)
-    - não é muito difícil, a maioria dos problemas poderão ser mais fáceis que aqueles que você verá em uma entrevista (de acordo com o que li)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/) (Decifrando a Entrevista de Programação).
-    - respostas em Java
-
-Se você tem muito tempo sobrando:
-
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836) (Elementos de Entrevistas de Programação (Versão C++))
-- [ ] Elementos de Entrevistas de Programação (Versão Java)
-    - [livro](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
+- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](./extras/books/Programming_Interviews_Exposed.pdf) 
+- [ ] [Cracking the Coding Interview, 6th Edition](./extras/books/Cracking_the_Coding_Interview_-_189_Programming_Questions_and_Solutions.pdf) 
+- [ ] [Elementos de Entrevistas de Programação (Versão Java)](./extras/books/Elements_of_Programming_Interviews_in_Java.pdf)
     - [Projecto de Companheiro - Esboço de Método e Testes para Cada Problema no Livro](https://github.com/gardncl/elements-of-programming-interviews)
 
 ### Arquitetura de Computador
 
-Se estiver com pouco tempo:
-
-- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038) (Escreva um Excelente Código: Volume 1: Compreendendo a Máquina)
+- [ ] [Write Great Code: Volume 1: Understanding the Machine](./extras/books/Write_Great_Code_-_Volume_1_-_Understanding_the_Machine.pdf) 
     - O livro foi publicado em 2004, e está meio desatualizado, mas é um recurso incrível para se compreender um computador resumidamente.
-    - O autor inventou HLA (High-level Assembly ou, no português, Assembly de alto nível), então considere as menções e exemplos em HLA com cautela. Não é usado amplamente, mas contém exemplos decentes de como o assembly funciona.
-    - Esses capítulos valem a pena serem lidos para lhe dar uma boa base:
-        - Chapter 2 - Numeric Representation (Capítulo 2 - Representação Numérica)
-        - Chapter 3 - Binary Arithmetic and Bit Operations (Capítulo 3 - Aritmética Binária e Operações Bit)
-        - Chapter 4 - Floating-Point Representation (Representação em Ponto Flutuante)
-        - Chapter 5 - Character Representation (Representação de Caractere)
-        - Chapter 6 - Memory Organization and Access (Organização e Acesso de Memória)
-        - Chapter 7 - Composite Data Types and Memory Objects (Tipos de Dados Compostos e Objetos de Memória)
-        - Chapter 9 - CPU Architecture (Arquitetura de CPU)
-        - Chapter 10 - Instruction Set Architecture (Arquitetura de Conjunto de Instruções)
-        - Chapter 11 - Memory Architecture and Organization (Arquitetura e Organização de Memória) 
-
-Se você tem mais tempo (eu quero esse livro):
-
-- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/) (Arquitetura de Computador, Quinta Edição: Uma Abordagem Quantitativa)
+- [ ] [Computer Architecture, Fifth Edition: A Quantitative Approach](https://www.amazon.com/dp/012383872X/)
     - Se quiser uma versão mais rica e atualizada (2011), mas com um tratamento mais longo
 
-### Específico de Linguagem
-
-**Você precisa escolher uma linguagem para a entrevista (veja acima).** Aqui estão minhas recomendações por linguagem. Eu não tenho recursos para todas as linguagens. Contribuições são bem-vindas.
-
-Se você ler um desses, você deverá ter todo conhecimento de estrutura de dados e algoritmos que precisará para começar a resolver problemas de programação. 
-**Você pode pular todas as aulas em vídeo nesse projeto**, a não ser que você queira uma revisão.
-
-[Recursos adicionais específicos a cada linguagem aqui.](../programming-language-resources.md)
-
 ### C++
-
-Eu não li esses dois, mas eles são muito bem avaliados e escritos por Sedgewick. Ele é incrível.
 
 - [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/) (Algoritmos em C++, Partes 1-4: Fundamentos, Estrutura de Dados, Ordenação, Busca).
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/) (Algoritmos em C++ Parte 5: Algoritmos de Grafo)
 
-Se você tiver uma recomendação melhor para C++, por favor me informe. Busco por recursos completos. 
-
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) (Algoritmos (Sedgewick e Wayne))
-    - vídeos com conteúdo do livro (e Sedgewick!):
-        - [Algorithms I](https://www.youtube.com/user/algorithmscourses/playlists?view=50&sort=dd&shelf_id=2) (Algoritmos I)
-        - [Algorithms II](https://www.youtube.com/user/algorithmscourses/playlists?shelf_id=3&view=50&sort=dd) (Algoritmos II)
-
-OU:
-
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/) (Estrutura de Dados e Algoritmos em Java)
-    - por Goodrich, Tamassia, Goldwasser
-    - usado como texo opcional para o curso introdutório de Ciência da Computação na Universidade da Califórnia em Berkeley
-    - veja o meu resumo sobre a versão em Python abaixo. Esse livro abrange os mesmos tópicos.
+- [ ] [Data Structures and Algorithms in Java](./extras/books/Data_Structures_Algorithms_in_Java.pdf) 
 
 ### Python
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/) (Estrutura de Dados e Algoritmos em Python)
-    - por Goodrich, Tamassia, Goldwasser
-    - Eu adorei esse livro. Ele cobriu tudo e muito mais.
-    - Código pythonico.
-    - meu resumo brilhante do livro: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
+- [ ] [Data Structures and Algorithms in Python](./extras/books/Data_Structures_Algorithms_in_Python.pdf) 
 
 ### Livros Opcionais
 
@@ -269,23 +204,7 @@ OU:
         - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/) (Soluções)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
-- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) (Introdução à Algoritmos)
-    - **Importante:** Ler esse livro só terá um valor limitado. Esse livro é ótimo para revisão de algoritmos e estrutura de dados, mas não irá te ensinar a escrever um bom código. Você deve ser capaz de codificar uma solução decente eficientemente.
-    - Half.com é um ótimo recurso para livros com bons preços.
-    - também conhecido como CLR, às vezes CLRS, porque Stein estava atrasado para o negócio
-
-- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) (Pérolas de Programação)
-    - Os primeiros capítulos apresentam soluções inteligentes para problemas de programação (alguns bem velhos usando suporte magnético)  
-    mas isso é só uma introdução. Esse é um guia sobre design e arquitetura de programa, parecido com Code Complete, mas muito mais curto.
-
-- ~~"Algorithms and Programming: Problems and Solutions" by Shen ("Algoritmos e Programação: Problemas e Soluções" por Shen)~~
-    - Um bom livro, mas depois de trabalhar nos problemas em várias páginas eu fiquei frustrado com o Pascal, loops do...while, arrays de 1 índice (index), e resultados de satisfação pós-condição pouco claros.  
-    - Prefiro gastar tempo em problemas de programação de outro livro ou problemas de programação online.
-
-
 ## Antes de começar
-
-Essa lista cresceu por longos meses, e sim, ela meio que saiu do controle!
 
 **Aqui estão alguns erros que eu cometi para que você tenha uma experiência melhor**.
 
@@ -329,34 +248,16 @@ Faça uma pausa durante os problemas de programação por meia hora e passe por 
 
 Há um monte de distrações que podem ocupar um tempo valioso. Foco e concentração são difíceis.
 
-## O que você não verá 
-
-Essas são tecnologias predominantes, mas não são partes desse plano de estudo:
-
-- SQL
-- Javascript
-- HTML, CSS, e outras tecnologias de front-end
-
 ## O Plano Diário
 
 Alguns temas levam um dia, e alguns vão levar vários dias. Alguns são apenas aprendizado sem nada para implementar.
-
-A cada dia eu pego um tema da lista abaixo, assisto vídeos sobre aquele tema, e escrevo uma implementação em:
-- C - usando structs e funções que usam struct * e alguma outra coisa como argumentos.
-- C++ - sem usar types internos.
-- C++ - usando types internos, como std::list da STL para uma lista ligada
-- Python - usando types internos (para continuar praticando Python)
-- e escrevo testes para garantir que estou fazendo certo, às vezes uso apenas declarações simples de asser()
-- Você pode fazer com Java também ou alguma outra linguagem, eu apenas prefiro essas cima.
 
 Você não precisa de todas essas linguagens. Você precisa de apenas [uma linguagem para a entrevista](#escolha-uma-linguagem-para-a-entrevista).
 
 Por que programar em todas essas linguagens?
 - Prática, prática, prática, até eu enjoar e poder implementar sem problemas (algumas tem muitos casos com valores de entrada extremos, ou seja, muito pequenos ou muito grandes, e também têm muitos detalhes de escrituração para lembrar)
 - Trabalhar dentro das restrições básicas (alocar/liberar memória sem ajuda de um coletor de lixo (com exceção de Python))
-- Fazer uso de types internos para que eu possa ter experiência em usar ferramentas internas para problemas do mundo real (não vou escrever minha própria implementação de lista ligada durante a etapa de produção)
-
-Talvez eu não tenha tempo para fazer tudo isso para cada tema, mas eu vou tentar.
+- Fazer uso de types internos para que eu possa ter experiência em usar ferramentas internas para problemas do mundo real 
 
 Você pode ver meu código aqui:
  - [C](https://github.com/jwasham/practice-c)
@@ -371,14 +272,8 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 
 - [ ] **Aprenda C**
     - C está em todo lugar. Você vai ver exemplos em livros, aulas, vídeos, em todo lugar enquanto você estiver estudando.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) (Linguagem de Programação C, Vol 2)
-        - Esse é um livro curto, mas vai te ajudar a ter um ótimo domínio da linguagem C e se você praticar um pouco 
-            você irá se tornar proficiente rapidamente. Entender C te ajuda a entender como os programas e a memória funcionam.
-        - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões) 
-
-- [ ] **Como computadores processam um programa:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) (Instruções de Código de Máquina - vídeo)
+    - [ ] [C Programming Language, Vol 2](./extras/books/The_C_Programming_Language_2_Ed.pdf)
+    - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões) 
 
 ## Complexidade Algorítmica / Big-O / Análise assintótica
 - nada para implementar
